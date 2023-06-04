@@ -10,7 +10,7 @@ from mlflow.pyfunc.scoring_server import infer_and_parse_json_input
 from mlflow.store.artifact.models_artifact_repo import ModelsArtifactRepository
 from pydantic import BaseModel
 
-# tested comments
+#  removed comments
 #requirements databricks host in env , databricks token in mlflow
 
 #add endpoint for rebuild
